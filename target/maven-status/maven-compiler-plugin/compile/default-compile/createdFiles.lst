@@ -1,0 +1,11 @@
+com\cz\saml\idp\SSOServlet.class
+com\cz\saml\sp\ConsumerServlet$1.class
+com\cz\saml\sp\SPCredentials.class
+com\cz\saml\OpenSAMLUtils.class
+com\cz\saml\sp\SPConstants.class
+com\cz\saml\app\ApplicationServlet.class
+com\cz\saml\sp\ConsumerServlet.class
+com\cz\saml\sp\AccessFilter.class
+com\cz\saml\idp\IDPConstants.class
+com\cz\saml\idp\IDPCredentials.class
+com\cz\saml\idp\ArtifactResolutionServlet.class
